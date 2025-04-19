@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <head>
+    <title>My first web page</title>
+    <style>
+      img{
+        width: 100px;
+        border-radius: 50%;
+        float: left;
+        margin: right;
+      }
+      .name{
+        color: blue;
+        font-style: normal;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="image/obito-uchiha_1400x.jpg" alt="photo">
+    <h1>Hello it's me <a class="name">Jonel</a></h1>
+    <h2>About me</h2>
+    <p>Hi, Im Jonel, a colege student learning Web development, I enjoy coding, gaming and eating.</p>
+    <h3>My Hobbies</h3>
+    <ul>
+      <li>Programming</li>
+      <li>Gaming</li>
+      <li>Eating</li>
+    </ul>
+    <h4>My Top 2 Favorite website</h4>
+    <ol>
+      <li><a href="https://icreatechs.com/roadmap/web-development-fundamentals" target="_blank">icreatechs</a></li>
+      <li><a href="https://youtu.be/qz0aGYrrlhU?si=eqtqoCW6xYInEEkr">YouTube</a></li>
+    </ol>
+    <h5>Contact me</h5>
+    <p>You can contact me at: <a href="labadjonel823@gmail.com">labadjonel823@gmail.com</a></p>
+  </body>
+</html>
